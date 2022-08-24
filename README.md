@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🌱 I’m currently learning python.
+ 💬 Ask me about anything.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shpark0913&show_icons=true)
 
@@ -21,4 +23,3 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shpark0913)](https://solved.ac/shpark0913/)
 
-- 🌱 I’m currently learning python.
