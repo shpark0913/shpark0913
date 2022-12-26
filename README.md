@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🌱 I’m currently learning python.
+ 🌱 I’m currently learning python, java, django, spring.
  
  💬 Ask me about anything.
 
