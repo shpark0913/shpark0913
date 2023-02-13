@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpark0913&layout=compact)](https://github.com/shpark0913/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shpark0913)](https://solved.ac/shpark0913/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shpark0913&show_icons=true&theme=radical)
