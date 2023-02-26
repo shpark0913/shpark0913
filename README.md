@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Sihyun's%20Github!&fontSize=50)
 
- 🌱 I’m currently learning python, java, django, spring.
+ 🌱 I’m currently learning React.js, JavaScript, Vue, Python, Java, Django.
  
  💬 Ask me about anything.
 
