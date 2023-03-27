@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Sihyun's%20Github!&fontSize=50&fontAlignY=30&&fontAlignY=60&desc=Front%20End%20Developer&descAlign=60&descAlignY=50&stroke=c4b2ab&animation=twinkling)
 
-## Introduction <br/>
+## Introduction  <br/>
 🖥️ Front-end Web Developer <br/>
 
 ## Education <br/>
@@ -70,4 +70,12 @@
   <p>🐈 Baekjoon 🦑</p>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shpark0913)](https://solved.ac/shpark0913/)
+	
+
+<p>🧡 방문자 수 🧡</p>
+	
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shpark0913}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+	
 </div>
