@@ -1,14 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Sihyun's%20Github!&fontSize=50&fontAlignY=30&&fontAlignY=60&desc=Front%20End%20Developer&descAlign=60&descAlignY=50&stroke=c4b2ab&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sihyun's%20Github!&fontSize=50&fontAlignY=30&&fontAlignY=60&desc=Front%20End%20Developer&descAlign=60&descAlignY=50&stroke=c4b2ab&animation=twinkling)
 
 ## Introduction  <br/>
-🖥️ Front-end Web Developer <br/>
+🖥️ Front-end Web Developer <br/><br/><br/>
 
 ## Education <br/>
 🎓 Kyung Hee Univ. Department of Mathematics (2015.03 ~ 2022.08) <br/>
-✍️ Samsung Software Academy For Youth (2022.07 ~) <br/>
+✍️ Samsung Software Academy For Youth (2022.07 ~) <br/><br/><br/>
 
 ## Tech Stack
-<div align=center>
+<div align=left>
 	<h3>📚 Skill Stack 📚</h3>
 	<p>✨ Languages ✨</p>
   <div>
@@ -58,8 +58,8 @@
 </div>
 </br>
 
-<br/><br/>
-<div align=center>
+<br/>
+<div align=left>
   <h3>🐾 기타 🐾</h3>
   <p>🐈 Github 🦑</p>
   
@@ -79,3 +79,6 @@
 
 	
 </div>
+
+
+
