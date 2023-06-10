@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sihyun's%20Github!&fontSize=50&fontAlignY=30&&fontAlignY=60&desc=Front%20End%20Developer&descAlign=60&descAlignY=50&stroke=c4b2ab&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sihyun's%20Github!&fontSize=50&fontAlignY=30&&fontAlignY=60&desc=Front%20End%20Developer&descAlign=60&descAlignY=50&stroke=c4b2ab)
 
 ## Introduction  <br/>
 🖥️ Front-end Web Developer <br/><br/><br/>
