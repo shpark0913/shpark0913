@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sihyun's%20Github!&fontSize=50&fontAlignY=30&&fontAlignY=60&desc=Front%20End%20Developer&descAlign=60&descAlignY=50&stroke=c4b2ab)
 
 ## Introduction  <br/>
-🖥️ Front-end Web Developer <br/><br/><br/>
+🖥️ Front-end Web Developer</br>
+[📑 portfolio](https://fate-gargoyle-3e8.notion.site/a1c859c787b3422ebdf7f02be83a47c5?pvs=4)
 
 ## Education <br/>
-🎓 Kyung Hee Univ. Department of Mathematics (2015.03 ~ 2022.08) <br/>
-✍️ Samsung Software Academy For Youth (2022.07 ~) <br/><br/><br/>
+🎓 경희대학교 수학과 (2015.03 ~ 2022.08) <br/>
+✍️ 삼성 청년 SW 아카데미 8기 (2022.07 ~ 2023.06) <br/><br/><br/>
 
 ## Tech Stack
 <div align=left>
