@@ -4,7 +4,11 @@
 <p>🖥️ Front-end Web Developer</p>
 <p>💯 이해될 때까지 도전하는 <strong>노력형 개발자</strong>입니다.</p>
 <p>🙆‍♂️ 다양한 협업 툴로 협업을 즐기는 <strong>소통형 개발자</strong>입니다.</p>
-<a href="https://fate-gargoyle-3e8.notion.site/a1c859c787b3422ebdf7f02be83a47c5?pvs=4">📑 노션 포트폴리오 바로가기</a> <br/><br/><br/>
+<a href="https://fate-gargoyle-3e8.notion.site/a1c859c787b3422ebdf7f02be83a47c5?pvs=4">📑 노션 포트폴리오 바로가기</a> <br/>
+📞 010-2708-0543
+<br/><br/>
+
+
 
 ## Education <br/>
 🎓 경희대학교 수학과 (2015.03 ~ 2022.08) <br/>
