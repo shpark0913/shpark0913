@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=C6BBB7&height=180&text=Sihyun&fontSize=60&fontAlign=80&&fontAlignY=20&rotate=12&desc=Front%20End%20Developer&fontColor=ffffff&descAlign=80&descAlignY=40&stroke=c4b2ab&animation=blink)
+<div align=center>
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&section=header&height=180&text=SIHYUN&animation=fadeIn&fontSize=40&fontColor=3e3e3e&stroke=eeeeee" 
+   />
+</div>
 
 ## Introduction  <br/>
 <p>🖥️ Front-end Web Developer</p>
